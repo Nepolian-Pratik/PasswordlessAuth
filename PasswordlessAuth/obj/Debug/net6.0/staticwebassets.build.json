@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dgcp4DOB+Z/DjueuAk+SdThArnYhW7YW2/vc1ebpfmo=",
+  "Source": "PasswordlessAuth",
+  "BasePath": "_content/PasswordlessAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

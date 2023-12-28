@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AT+3f06dtZsAjkdkfxDEQtiXInjUwfsQjFOuyneb6PM=",
+  "Source": "PwdLessAuth",
+  "BasePath": "_content/PwdLessAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
